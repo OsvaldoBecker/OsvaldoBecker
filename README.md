@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Osvaldo 👋
 
-<!--
-**OsvaldoBecker/OsvaldoBecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Computer Science student at Universidade de Passo Fundo.
 
-Here are some ideas to get you started:
+- 💻 I'm currently working as a Software Developer at Universidade de Passo Fundo.
+- 🎮 I'm currently developing a Virtual Reality game focused on the health area for course completion work.
+- 🕹 I have experience in developing motion capture games (exergames) aimed at the health area, especially for seniors. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Take a look at the exergames repositories 🏋️‍♂️
+The Boliche Virtual research work was among the winners and earned an Honorable Mention in the Concurso de Trabalhos de Iniciação Científica (Scientific Initiation Papers Contest) of the 21st of the Simpósio Brasileiro de Computação Aplicada à Saúde (Brazilian Symposium on Computing Applied to Health)
+
+- [Fisio Virtual (Soon)]()
+- [Boliche Virtual: An exergame for improving functional capacity in elderly people](https://github.com/OsvaldoBecker/Unity3D-BolicheVirtual)
+
+#### Contact 📱
+- Email: <a href='mailto:osvaldobecker1999@gmail.com'>osvaldobecker1999@gmail.com</a>
+- LinkedIn: <a href='https://www.linkedin.com/in/osvaldo-henrique-becker/'>www.linkedin.com/in/osvaldo-henrique-becker/</a>
