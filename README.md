@@ -7,8 +7,9 @@
 - 🕹 I have experience in developing motion capture games (exergames) aimed at the health area, especially for seniors. 
 
 #### Take a look at the exergames repositories 🏋️‍♂️
-The Boliche Virtual research work was among the winners and earned an Honorable Mention in the Concurso de Trabalhos de Iniciação Científica (Scientific Initiation Papers Contest) of the 21st of the Simpósio Brasileiro de Computação Aplicada à Saúde (Brazilian Symposium on Computing Applied to Health)
+The Boliche Virtual research work was among the winners and earned an Honorable Mention in the Concurso de Trabalhos de Iniciação Científica (Scientific Initiation Papers Contest) of the 21st of the Simpósio Brasileiro de Computação Aplicada à Saúde (Brazilian Symposium on Computing Applied to Health).
 
+- [VR Game (Soon)]()
 - [Fisio Virtual (Soon)]()
 - [Boliche Virtual: An exergame for improving functional capacity in elderly people](https://github.com/OsvaldoBecker/Unity3D-BolicheVirtual)
 
