@@ -9,7 +9,7 @@
 #### Take a look at the exergames repositories 🏋️‍♂️
 The Boliche Virtual research work was among the winners and earned an Honorable Mention in the Concurso de Trabalhos de Iniciação Científica (Scientific Initiation Papers Contest) of the 21st of the Simpósio Brasileiro de Computação Aplicada à Saúde (Brazilian Symposium on Computing Applied to Health).
 
-- [Project VR](https://github.com/OsvaldoBecker/Unity3D-ProjectVR)
+- [Project VR: A Virtual Reality game for cognitive engagement and mindfulness meditation](https://github.com/OsvaldoBecker/Unity3D-ProjectVR)
 - [Fisio Virtual: An exergame to help elderly people in the execution of a kinesiotherapy protocol](https://github.com/OsvaldoBecker/Unity3D-FisioVirtual)
 - [Boliche Virtual: An exergame for improving functional capacity in elderly people](https://github.com/OsvaldoBecker/Unity3D-BolicheVirtual)
 
