@@ -2,6 +2,7 @@
 
 #### I'm a Computer Science student at Universidade de Passo Fundo.
 
+- 📚 I'm about to finish bachelor's degree in mid 2022.
 - 💻 I'm currently working as a Software Developer at Universidade de Passo Fundo.
 - 🎮 I'm currently developing a Virtual Reality game focused on the health area for course completion work.
 - 🕹 I have experience in developing motion capture games (exergames) aimed at the health area, especially for seniors. 
