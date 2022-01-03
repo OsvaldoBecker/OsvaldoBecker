@@ -6,7 +6,7 @@
 - 💻 I'm currently working as a Software Developer at Universidade de Passo Fundo.
 - 🎮 I've already developed three games from scratch using Unity 3D.
 
-  - One Virtual Reality game, for the treatment of chronic pain, with a focus on cognitive engagement and mindfulness meditation.
+  - One Virtual Reality game, for the treatment of chronic pain (cognitive engagement and mindfulness meditation).
   - Two Motion Capture games (exergames), for exercise and improvement of functional capacity.
   - All three games are aimed at the health area, especially the elderly.
 
