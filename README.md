@@ -3,7 +3,7 @@
 #### I'm a Computer Science student at Universidade de Passo Fundo.
 
 - 📚 I'm about to finish bachelor's degree in mid 2022.
-- 💻 I'm currently working as a Software Developer at Universidade de Passo Fundo.
+- 💻 I'm currently working as a Software Engineer at ateliware.
 - 🎮 I've already developed three games from scratch using Unity 3D.
 
   - One Virtual Reality game, for the treatment of chronic pain (cognitive engagement and mindfulness meditation).
