@@ -18,5 +18,4 @@ The Boliche Virtual work was among the winners of the Undergraduate Research Wor
 - [Boliche Virtual: An exergame for improving functional capacity in elderly people](https://github.com/OsvaldoBecker/Unity3D-BolicheVirtual)
 
 #### Contact 📱
-- Email: <a href='mailto:osvaldobecker1999@gmail.com'>osvaldobecker1999@gmail.com</a>
 - LinkedIn: <a href='https://www.linkedin.com/in/osvaldo-henrique-becker/'>www.linkedin.com/in/osvaldo-henrique-becker/</a>
