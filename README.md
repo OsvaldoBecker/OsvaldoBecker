@@ -1,6 +1,6 @@
 ### Hi there, I'm Osvaldo 👋
 - 📚 I'm a Computer Scientist graduated in 2022.
-- 💻 I'm currently working as a Software Engineer at ateliware.
+- 💻 I'm currently working as a Software Engineer.
 - 🎮 I've already developed three games from scratch using Unity 3D.
 
   - A Virtual Reality game for chronic pain management (cognitive engagement and mindfulness meditation).
